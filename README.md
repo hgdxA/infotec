@@ -1,3 +1,3 @@
 # infotec
-practicas
-creacion de codespace
+-practicas
+-creacion de codespace
